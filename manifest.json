@@ -17,7 +17,7 @@
 			"https://r.onliner.by/pk/*"
 		],
 		"js": [
-			"source/js/jquery.min.js",
+			"source/js/jquery-3.6.1.min.js",
 			"source/js/frontend.js"
 		]
 	} ]
